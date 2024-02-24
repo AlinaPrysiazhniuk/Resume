@@ -38,7 +38,7 @@ p {
 .about-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 20px;
@@ -56,10 +56,9 @@ p {
 .about-description {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
-  width: 400px;
 }
 
 /*  project styles */
@@ -83,36 +82,29 @@ p {
   margin-bottom: 10px;
 }
 
-.projects-list {
-  padding: 0;
-  margin-left: 15px;
-}
-
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000000;
+  margin-bottom: 10px;
+  padding-left: 10px;
 }
 
 .project,
 .project-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #595959;
-}
-
-.project-link {
-  margin-left: 10px;
 }
 
 .project-bracket {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #000000;
 }
@@ -143,7 +135,7 @@ p {
 .period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: #a8a8a8;
   margin-bottom: 10px;
@@ -152,7 +144,7 @@ p {
 .line {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 15px;
   color: #000000;
 }
@@ -163,7 +155,6 @@ p {
 }
 
 .work-list-item {
-  font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
@@ -187,7 +178,7 @@ p {
 .specialization {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000000;
   margin-bottom: 10px;
@@ -209,6 +200,8 @@ p {
   width: 350px;
   margin-bottom: 50px;
   border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .contacts,
@@ -234,7 +227,7 @@ p {
 .contact-type {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #ffffff;
   margin-right: 10px;
@@ -243,7 +236,7 @@ p {
 .contact-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #575e6a;
 }
@@ -268,7 +261,7 @@ p {
   color: #fff;
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
 }
 
