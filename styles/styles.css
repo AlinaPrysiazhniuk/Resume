@@ -24,7 +24,7 @@ p {
 /* main-content */
 
 .main-content {
-  background-color: #fff;
+  background-color: #afc77839;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 105px 90px 105px 90px;
 }
@@ -49,7 +49,7 @@ p {
   font-weight: 700;
   font-size: 45px;
   line-height: 55px;
-  color: #b82f09;
+  color: #cf380e;
   margin-bottom: 25px;
 }
 
@@ -196,14 +196,19 @@ p {
 /* sidebar styles */
 
 .sidebar {
-  background-color: #8d73b5;
+  background-color: #1e2f0c;
+  display: flex;
+  flex-direction: column;
   padding-top: 40px;
-  width: 370px;
+  min-width: 370px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .photo {
-  width: 370px;
+  width: 350px;
   margin-bottom: 50px;
+  border-radius: 5px;
 }
 
 .contacts,
