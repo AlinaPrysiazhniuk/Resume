@@ -7,7 +7,8 @@ h1,
 h2,
 h3,
 h4,
-h5 {
+h5,
+p {
   margin: 0;
 }
 /* main styles */
@@ -126,7 +127,7 @@ h5 {
   font-size: 16px;
   line-height: 20px;
   color: #000000;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .organization {
