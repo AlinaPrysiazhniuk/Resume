@@ -190,10 +190,8 @@ p {
   background-color: #1e2f0c;
   display: flex;
   flex-direction: column;
-  padding-top: 40px;
+  padding: 40px 10px;
   min-width: 370px;
-  padding-left: 10px;
-  padding-right: 10px;
 }
 
 .photo {
@@ -228,16 +226,21 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.7;
   color: #ffffff;
 }
 
 .contact-link {
   font-style: normal;
+  text-decoration: none;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   color: #ffffff;
+}
+
+.tech-skills {
+  margin-bottom: 40px;
 }
 
 .tech-skills-list,
@@ -265,7 +268,7 @@ p {
 }
 
 .soft-skills {
-  margin-top: 45px;
+  margin-bottom: 40px;
 }
 
 .link-github {
