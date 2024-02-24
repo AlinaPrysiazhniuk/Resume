@@ -11,6 +11,7 @@ h5,
 p {
   margin: 0;
 }
+
 /* main styles */
 
 .main {
@@ -268,4 +269,8 @@ p {
 
 .soft-skills {
   margin-top: 45px;
+}
+
+.link-github {
+  text-decoration: none;
 }
