@@ -50,7 +50,7 @@ p {
   font-weight: 700;
   font-size: 45px;
   line-height: 55px;
-  color: #cf380e;
+  color: #81341f;
   margin-bottom: 25px;
 }
 
@@ -133,7 +133,8 @@ p {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  /* color: #fb6d3a; */
+  color: #763e2f;
   margin-bottom: 10px;
 }
 
@@ -163,6 +164,7 @@ p {
 }
 
 .item-achievments {
+  font-size: 16px;
   color: #424242;
 }
 
@@ -179,7 +181,8 @@ p {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  color: #fb6d3a;
+  /* color: #fb6d3a; */
+  color: #763e2f;
   margin-bottom: 15px;
 }
 
@@ -266,7 +269,8 @@ p {
 .tech-skills-item,
 .soft-skills-item,
 .languages-item {
-  color: #fb6d3a;
+  /* color: #fb6d3a; */
+  color: #ffffff;
 }
 
 .tech-skills-text,
