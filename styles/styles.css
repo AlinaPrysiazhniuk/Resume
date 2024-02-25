@@ -58,7 +58,6 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   color: #595959;
 }
 
@@ -66,12 +65,6 @@ p {
 
 .projects {
   margin-bottom: 50px;
-
-  /* margin: 100px 90px 300px 60px; */
-
-  /* margin: 50px; */
-
-  /* margin: 100px 50 px; */
 }
 
 .title {
@@ -98,7 +91,6 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   color: #595959;
 }
 
@@ -106,7 +98,6 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  /* line-height: 24px; */
   color: #000000;
 }
 /* work styles */
@@ -123,7 +114,6 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  /* line-height: 20px; */
   color: #000000;
   margin-bottom: 3px;
 }
@@ -133,7 +123,6 @@ p {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  /* color: #fb6d3a; */
   color: #763e2f;
   margin-bottom: 10px;
 }
@@ -171,7 +160,6 @@ p {
 .work-list-item {
   font-weight: normal;
   font-size: 14px;
-  /* line-height: 24px; */
   color: #595959;
 }
 /* Education styles */
@@ -181,7 +169,6 @@ p {
   font-weight: 700;
   font-size: 16px;
   line-height: 20px;
-  /* color: #fb6d3a; */
   color: #763e2f;
   margin-bottom: 15px;
 }
@@ -244,6 +231,14 @@ p {
   line-height: 1.7;
   color: #ffffff;
 }
+.icon-contact {
+  fill: #fff;
+}
+
+.contact-info {
+  display: flex;
+  gap: 10px;
+}
 
 .contact-link {
   font-style: normal;
@@ -269,7 +264,6 @@ p {
 .tech-skills-item,
 .soft-skills-item,
 .languages-item {
-  /* color: #fb6d3a; */
   color: #ffffff;
 }
 
