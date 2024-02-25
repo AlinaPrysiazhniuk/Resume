@@ -1,6 +1,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
+  line-height: 1.5;
 }
 
 h1,
@@ -24,7 +25,7 @@ p {
 /* main-content */
 
 .main-content {
-  background-color: #afc77839;
+  background-color: #afc77821;
   box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
   padding: 105px 90px 105px 90px;
 }
@@ -39,7 +40,7 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 17px;
+  /* line-height: 17px; */
   color: #000000;
   margin-bottom: 20px;
 }
@@ -57,7 +58,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #595959;
 }
 
@@ -86,7 +87,7 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #000000;
   margin-bottom: 10px;
   padding-left: 10px;
@@ -97,7 +98,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #595959;
 }
 
@@ -105,7 +106,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #000000;
 }
 /* work styles */
@@ -114,13 +115,17 @@ p {
   margin-bottom: 45px;
 }
 
+.work-experience {
+  margin-bottom: 15px;
+}
+
 .work-position {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 20px;
+  /* line-height: 20px; */
   color: #000000;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
 }
 
 .organization {
@@ -137,8 +142,7 @@ p {
   font-weight: 400;
   font-size: 14px;
   line-height: 15px;
-  color: #a8a8a8;
-  margin-bottom: 10px;
+  color: #706e6e;
 }
 
 .line {
@@ -154,10 +158,18 @@ p {
   margin-left: 15px;
 }
 
+.work-achievements {
+  margin-top: 5px;
+}
+
+.item-achievments {
+  color: #424242;
+}
+
 .work-list-item {
   font-weight: normal;
   font-size: 14px;
-  line-height: 24px;
+  /* line-height: 24px; */
   color: #595959;
 }
 /* Education styles */
@@ -181,13 +193,13 @@ p {
   font-size: 16px;
   line-height: 17px;
   color: #000000;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 /* sidebar styles */
 
 .sidebar {
-  background-color: #1e2f0c;
+  background-color: #4b5047fe;
   display: flex;
   flex-direction: column;
   padding: 40px 10px;
