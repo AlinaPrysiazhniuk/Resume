@@ -80,10 +80,15 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  /* line-height: 24px; */
   color: #000000;
   margin-bottom: 10px;
   padding-left: 10px;
+}
+
+.project-info {
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .project,
@@ -92,6 +97,12 @@ p {
   font-weight: 400;
   font-size: 16px;
   color: #595959;
+}
+
+.project-details {
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .project-bracket {
@@ -238,6 +249,7 @@ p {
 .contact-info {
   display: flex;
   gap: 10px;
+  margin-bottom: 3px;
 }
 
 .contact-link {
@@ -274,7 +286,7 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.7;
 }
 
 .soft-skills {
