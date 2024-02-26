@@ -2,6 +2,7 @@ body {
   font-family: "Montserrat", sans-serif;
   background-color: #f5f7fa;
   line-height: 1.5;
+  font-size: 16px;
 }
 
 h1,
@@ -56,7 +57,6 @@ p {
 .about-description {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
   color: #595959;
 }
 
@@ -78,7 +78,6 @@ p {
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
   color: #000000;
   margin-bottom: 10px;
   padding-left: 10px;
@@ -94,7 +93,6 @@ p {
 .project-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
   color: #595959;
 }
 
@@ -107,7 +105,6 @@ p {
 .project-bracket {
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
   color: #000000;
 }
 /* work styles */
@@ -122,26 +119,22 @@ p {
 
 .work-position {
   font-style: normal;
-  font-weight: 700;
-  font-size: 16px;
+  font-weight: 600;
   color: #000000;
   margin-bottom: 3px;
 }
 
 .organization {
   font-style: normal;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 20px;
+  font-weight: 500;
   color: #763e2f;
   margin-bottom: 10px;
+  text-transform: none;
 }
 
 .period {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 15px;
   color: #706e6e;
 }
 
@@ -149,7 +142,6 @@ p {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 15px;
   color: #000000;
 }
 
@@ -163,35 +155,29 @@ p {
 }
 
 .item-achievments {
-  font-size: 16px;
   color: #424242;
 }
 
 .work-list-item {
   font-weight: normal;
-  font-size: 14px;
   color: #595959;
 }
 /* Education styles */
 
 .university {
   font-style: normal;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 20px;
   color: #763e2f;
   margin-bottom: 15px;
 }
 
 .education-place {
   margin-bottom: 5px;
+  font-weight: 500;
 }
 
 .specialization {
   font-style: normal;
-  font-weight: 700;
-  font-size: 16px;
-  line-height: 17px;
+  font-size: 400;
   color: #000000;
   margin-bottom: 20px;
 }
@@ -230,14 +216,13 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
-  line-height: 27px;
+  /* line-height: 27px; */
   margin-bottom: 10px;
 }
 
 .contact-type {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
   line-height: 1.7;
   color: #ffffff;
 }
@@ -255,9 +240,11 @@ p {
   font-style: normal;
   text-decoration: none;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
   color: #ffffff;
+}
+
+.link-add {
+  text-decoration: underline;
 }
 
 .tech-skills {
@@ -284,7 +271,6 @@ p {
   color: #fff;
   font-style: normal;
   font-weight: 400;
-  font-size: 16px;
   line-height: 1.7;
 }
 
