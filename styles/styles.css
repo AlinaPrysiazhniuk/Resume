@@ -130,7 +130,7 @@ p {
 .organization {
   font-style: normal;
   font-weight: 500;
-  /* color: #000000; */
+  /* color: #3c3c3c; */
   margin-bottom: 10px;
   text-transform: none;
 }
@@ -138,7 +138,7 @@ p {
 .period {
   font-style: normal;
   font-weight: 400;
-  /* color: #000000; */
+  /* color: #4f4e4e; */
 }
 
 .line {
