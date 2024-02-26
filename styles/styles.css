@@ -3,6 +3,7 @@ body {
   background-color: #f5f7fa;
   line-height: 1.5;
   font-size: 16px;
+  color: #2d2d2d;
 }
 
 h1,
@@ -39,9 +40,10 @@ p {
 
 .about-position {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
+  text-transform: uppercase;
   font-size: 22px;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 20px;
 }
 
@@ -50,14 +52,14 @@ p {
   font-weight: 700;
   font-size: 45px;
   line-height: 55px;
-  color: #81341f;
+  color: #757575;
   margin-bottom: 25px;
 }
 
 .about-description {
   font-style: normal;
   font-weight: 400;
-  color: #000000;
+  /* color: #000000; */
 }
 
 /*  project styles */
@@ -68,17 +70,18 @@ p {
 
 .title {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
+  text-transform: uppercase;
   font-size: 22px;
   line-height: 27px;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 10px;
 }
 
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 10px;
   padding-left: 10px;
 }
@@ -93,7 +96,7 @@ p {
 .project-link {
   font-style: normal;
   font-weight: 400;
-  color: #000000;
+  color: #2d2d2d;
 }
 
 .project-details {
@@ -105,7 +108,7 @@ p {
 .project-bracket {
   font-style: normal;
   font-weight: 400;
-  color: #000000;
+  /* color: #000000; */
 }
 /* work styles */
 
@@ -127,7 +130,7 @@ p {
 .organization {
   font-style: normal;
   font-weight: 500;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 10px;
   text-transform: none;
 }
@@ -135,14 +138,14 @@ p {
 .period {
   font-style: normal;
   font-weight: 400;
-  color: #000000;
+  /* color: #000000; */
 }
 
 .line {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  color: #000000;
+  /* color: #000000; */
 }
 
 .work-list {
@@ -155,18 +158,18 @@ p {
 }
 
 .item-achievments {
-  color: #000000;
+  color: #2d2d2d;
 }
 
 .work-list-item {
   font-weight: normal;
-  color: #000000;
+  /* color: #000000; */
 }
 /* Education styles */
 
 .university {
   font-style: normal;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 15px;
   font-weight: 600;
 }
@@ -179,7 +182,7 @@ p {
 .specialization {
   font-style: normal;
   font-size: 400;
-  color: #000000;
+  /* color: #000000; */
   margin-bottom: 20px;
 }
 
