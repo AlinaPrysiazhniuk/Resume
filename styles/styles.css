@@ -28,13 +28,13 @@ p {
 
 .main-content {
   background-color: #afc77821;
-  padding: 90px;
+  padding: 70px 90px;
 }
 
 /* about styles */
 
 .about {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .about-position {
@@ -42,7 +42,6 @@ p {
   font-weight: 600;
   text-transform: uppercase;
   font-size: 22px;
-  /* color: #000000; */
   margin-bottom: 20px;
 }
 
@@ -58,13 +57,12 @@ p {
 .about-description {
   font-style: normal;
   font-weight: 400;
-  /* color: #000000; */
 }
 
 /*  project styles */
 
 .projects {
-  margin-bottom: 50px;
+  margin-bottom: 35px;
 }
 
 .title {
@@ -73,14 +71,12 @@ p {
   text-transform: uppercase;
   font-size: 22px;
   line-height: 27px;
-  /* color: #000000; */
   margin-bottom: 10px;
 }
 
 .projects-item {
   font-style: normal;
   font-weight: 700;
-  /* color: #000000; */
   margin-bottom: 10px;
   padding-left: 10px;
 }
@@ -107,12 +103,11 @@ p {
 .project-bracket {
   font-style: normal;
   font-weight: 400;
-  /* color: #000000; */
 }
 /* work styles */
 
 .work {
-  margin-bottom: 45px;
+  margin-bottom: 35px;
 }
 
 .work-experience {
@@ -129,7 +124,6 @@ p {
 .organization {
   font-style: normal;
   font-weight: 500;
-  /* color: #3c3c3c; */
   margin-bottom: 10px;
   text-transform: none;
 }
@@ -137,14 +131,12 @@ p {
 .period {
   font-style: normal;
   font-weight: 400;
-  /* color: #4f4e4e; */
 }
 
 .line {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  /* color: #000000; */
 }
 
 .work-list {
@@ -162,13 +154,11 @@ p {
 
 .work-list-item {
   font-weight: normal;
-  /* color: #000000; */
 }
 /* Education styles */
 
 .university {
   font-style: normal;
-  /* color: #000000; */
   margin-bottom: 15px;
   font-weight: 600;
 }
@@ -181,7 +171,6 @@ p {
 .specialization {
   font-style: normal;
   font-size: 400;
-  /* color: #000000; */
   margin-bottom: 20px;
 }
 
@@ -219,7 +208,6 @@ p {
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
-  /* line-height: 27px; */
   margin-bottom: 10px;
 }
 
